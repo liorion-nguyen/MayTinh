@@ -12,3 +12,13 @@
 - B1: git add .
 - B2: git commit -m "message"
 - B3: git push origin branchName
+
+# Làm việc nhóm:
+- Đặt tên nhánh:
+    + main/master: Nhánh của product -> Ném vào nhánh này.
+    + develop: Nhánh cho người lập trình viên kiểm thử -> Kiểm thử thành công 
+    + tên từng lập trình viên(chungnq): Nhánh code của từng lập trình viên
+- Làm việc với nhánh: 
+    + git branch: Xem tất cả các nhánh và nhánh mình đang trỏ.
+    + git checkout -b branchName: Tạo 1 nhánh mới
+    + git checkout branchName: Chuyển sang nhánh khác.
