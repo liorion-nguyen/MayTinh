@@ -9,7 +9,6 @@
 - B6: git push -u origin main [Đẩy code lên nhánh main]
 
 # Đẩy code lên github
-- B1: git add 
+- B1: git add .
 - B2: git commit -m "message"
 - B3: git push origin branchName
-
