@@ -21,4 +21,4 @@
 - Làm việc với nhánh: 
     + git branch: Xem tất cả các nhánh và nhánh mình đang trỏ.
     + git checkout -b branchName: Tạo 1 nhánh mới
-    + git checkout branchName: Chuyển sang nhánh khác.
+    + git checkout branchName: Chuyển sang nhánh khác....
